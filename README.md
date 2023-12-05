@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Hi, I’m @Ravi kumar
-👀 I’m interested in learning and teaching.
-🌱 I’m currently enjoying mentoring through Transflower.
+👀 I’m interested in learning and coding.
+🌱 I’m currently enjoying mentoring.
 💞️ Sharing is caring.
-📫 Doing ordinary things extra ordinarily
-My attitude towards any technology is, “I don’t know it all, but I will figure it out”. I find technology fascinating due to its vast ever-changing nature. There is so much to investigate. Every day I come to learn, I find out I know less. This keep my learning spirit alive. Learning and Teaching, my passion keeps me involved in teaching and mentoring Information Technology for more than 25 years. I am loving it.
+📫
 
 # Languages and Tools 🛠
-Java C Python JavaScript React HTML5 CSS3 Sass Bootstrap Markdown Nodejs Npm Firebase Microsoft Sql Server Git GitLab GitHub VS Code Eclipse-IDE Powershell Windows
+Java C Python JavaScript React HTML5 CSS3 Sass Bootstrap  Nodejs Npm Microsoft Sql Server Git GitLab GitHub VS Code Eclipse-IDE Powershell Windows
