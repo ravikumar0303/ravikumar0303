@@ -1,14 +1,14 @@
 
 <div id="header" align="center" width="200">
-
+<img alt="coding" width="1000" height="250" src ="https://github.com/ravikumar0303/ravikumar0303/blob/main/Blue%20and%20Yellow%20Gradient%20Modern%20Desktop%20Wallpaper.png"/>
+  
 ----
 </div>
 
 <p align="center">
   <i><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I'M Ravi Kumar; I am a 🎓Full-stack%20web%20developer; 🎓Cloud%20Engineer; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 ;🤓 Curious%20to%20learn%20new%20things✨ !&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=00FF00.&vCenter=true&size=22&pause=1000"></a></i>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I'M Ravi Kumar; I am a 🎓Full-stack%20web%20developer; 🎓Cloud%20Engineer; I love❤️ to do code👩‍💻 in ®️e🅰️©️t💻 ;🤓 Curious%20To%20Learn%20New%20Things✨!&font=Arial%20Code&center=true&width=1000&height=40&font-size=50%&family=Montserrat:wght@300&color=00FF00.&vCenter=true&size=22&pause=1000"></a></i>
 </p>
-
 
 ---
 
@@ -25,7 +25,7 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 
 <h5>
 💻 1000+ Hours of Practical Coding,
-⌛100+ Hours of Soft Skill Development,
+⌛200+ Hours of Soft Skill Development,
 📚350+ Hours Data Structures & Algorithms ,
 ⏰300+ Hours Math & Logic ,
 🧾10+ Projects & Hackathon 
@@ -40,7 +40,7 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 | [![Resume](https://img.shields.io/badge/my_Resume-E75480?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1-NB0s-KHgs2yyDf-fYhQy-bvWtdmcqT7/view?usp=drive_link) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravikumar0303/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar2001ravi) |[![portfolio](https://img.shields.io/badge/my_portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://ravikumar0303.github.io/portfolio/) |
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=00FF00&width=600&height=100&lines=Learned+J2EE💻;Learned+Core+Java💻;Learned+Dot+Net+Framework💻;Learned+Front-end💻;Learned+Bac-kend💻Learned+DataBase💻;Learned+Hosting💻;Learned+Frameworks💻;Learned+Libraries💻;Learned+Designs💻;Learned+Platforms💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=00FF00&width=600&height=100&lines=Learned+J2EE💻;Learned+Core+Java💻;Learned+.NetFramework💻;Learned+Front-End💻;Learned+Back-End💻;Learned+DataBase💻;Learned+Hosting💻;Learned+Frameworks💻;Learned+Libraries💻;Learned+Designs💻;Learned+Platforms💻)](https://git.io/typing-svg)
 
 <p align="left">
     <a href="https://github.com/ravikumar0303">
@@ -53,7 +53,6 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 <br>
 
 ---
-
 <h3 align="left">🌐 Socials:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar2001ravi) [![Leetcode](https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&logo=leetcode&logoColor=white)](https://leetcode.com/ravikumar432/) [![Hackerrank](https://img.shields.io/badge/hackerrank-4b5320.svg?style=plastic&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/raravikumar432) [![Codesandbox](https://img.shields.io/badge/-codesandbox-8db600?style=plastic&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/raviiet3)
