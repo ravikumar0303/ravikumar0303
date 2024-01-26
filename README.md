@@ -1,6 +1,6 @@
 
 <div id="header" align="center" width="200">
-<img alt="coding" width="1000" height="250" src ="https://github.com/ravikumar0303/ravikumar0303/blob/main/Blue%20and%20Yellow%20Gradient%20Modern%20Desktop%20Wallpaper.png"/>
+<img alt="coding" width="1000" height="200" src ="https://github.com/ravikumar0303/ravikumar0303/blob/main/Blue%20and%20Yellow%20Gradient%20Modern%20Desktop%20Wallpaper.png"/>
   
 ----
 </div>
