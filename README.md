@@ -21,7 +21,7 @@
 <h4 align="left">
 Always eager to learn something new and deal with new tasks and challenges. I have done my Bachelor of Technology- B.Tech in Computer Science and Engineering from Dr. Ram Manohar Lohia Avadh University, Ayodhya Uttar Pradesh, India. Constantly seeking Opportunities for Growth and Development, I have a Strong inclination towards Learning new Technology. </h4>
 
-<h4> Currently I have Completed PG-DIPLOMA in Centre for Development of Advanced Computing ("C-DAC") Acts Pune, Maharashtra. Work Experience in J2EE, Core Java, .Net Framework, MySQL, eact.js, Node.js, Javascript, HTML5, CSS3 | Knowledge and experience in Data Structure, OOP'S, AWS, EC2, Docker, Web Development, Front-End 🔚 Technology ⚙, Database, SQL and Debugging | Open to Work Software Engineer. </h4>
+<h4> Currently I have Completed PG-DIPLOMA in Centre for Development of Advanced Computing ("C-DAC") Acts Pune, Maharashtra. Work Experience in J2EE, Core Java, .Net Framework, MySQL, React.js, Node.js, Javascript, HTML5, CSS3 | Knowledge and experience in Data Structure, OOP'S, AWS, EC2, Docker, Web Development, Front-End 🔚 Technology ⚙, Database, SQL and Debugging | Open to Work Software Engineer. </h4>
 
 <h5>
 💻 1000+ Hours of Practical Coding,
@@ -40,7 +40,7 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
 | [![Resume](https://img.shields.io/badge/my_Resume-E75480?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1-NB0s-KHgs2yyDf-fYhQy-bvWtdmcqT7/view?usp=drive_link) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravikumar0303/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar2001ravi) |[![portfolio](https://img.shields.io/badge/my_portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white)](https://ravikumar0303.github.io/portfolio/) |
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=00FF00&width=600&height=100&lines=Learned+J2EE💻;Learned+Core+Java💻;Learned+.NetFramework💻;Learned+Front-End💻;Learned+Back-End💻;Learned+DataBase💻;Learned+Hosting💻;Learned+Frameworks💻;Learned+Libraries💻;Learned+Designs💻;Learned+Platforms💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=00FF00&width=600&height=100&lines=Learned+J2EE💻;Learned+Core+Java💻;Learned+.Net+Framework💻;Learned+Front-End💻;Learned+Back-End💻;Learned+DataBase💻;Learned+Hosting💻;Learned+Frameworks💻;Learned+Libraries💻;Learned+Designs💻;Learned+Platforms💻)](https://git.io/typing-svg)
 
 <p align="left">
     <a href="https://github.com/ravikumar0303">
@@ -66,13 +66,10 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
     </a>
   </p>
 
-
-
-
 ---
 <h3>⚡Hobbies and interests :</h3>
 
-1. Always interested in Coding & new learnings 💫.
+1. Always interested in Coding & New Learnings 💫.
 
 2. love to listen to Music🎧.
 
@@ -102,26 +99,32 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-    <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"></a>
-    <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white"></a>
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white"></a>
+      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-3.2-6DB33F.svg"></a>
+      <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"></a>
+      <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white"></a>
+      <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%23000000.svg?style=plastic&logo=github&logoColor=white"></a> 
+      <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-%23000000.svg?style=plastic&logo=github&logoColor=white"></a> 
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>    
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="(.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
+      <a href="#"><img alt="Selenium WebDriver" src="https://img.shields.io/badge/Selenium-WebDriver-green.svg"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-FF4514?style=flat&logo=oracle&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets Database" src="https://img.shields.io/badge/Google%20Sheets%20-%231A73E8.svg?&style=flat&logo=googlesheets&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
@@ -129,6 +132,10 @@ Always eager to learn something new and deal with new tasks and challenges. I ha
   <h3>💻 Software and Tools</h3>
 
   <p>
+       <a href="#"><img alt="Eclipse-IDE" src="http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff"></a>
+       <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"></a>
+       <a href="#"><img alt="Windows" src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff"></a>
+      <a href="#"><img alt="Powershell" src="http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff"></a>
        <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
